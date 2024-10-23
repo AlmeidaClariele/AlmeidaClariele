@@ -4,8 +4,11 @@
 About Me:
 
 🎓 Graduated in Electrical Engineering from the Federal Rural University of Pernambuco (UFRPE).
+
 🤖 Currently a resident at UFPE, specializing in Robotics and Artificial Intelligence.
+
 🔬 Master's student in Electrical Engineering, focusing on Energy Efficiency of Machine Learning Algorithms applied to Edge Devices.
+
 💡 Passionate about innovation, technology, and applying them to solve real-world problems!
 
 Areas of Interest:
